@@ -1,0 +1,8 @@
+Flask
+gunicorn
+h5py
+keras
+numpy
+requests
+tensorflow
+urllib3
